@@ -2,7 +2,7 @@
 
 A modern, real-time Engine Control Unit (ECU) simulator with a beautiful web-like interface, built using Qt6 and C++.
 
-![ECU Simulator Screenshot](screenshots/main.png)
+
 
 ## Features
 
