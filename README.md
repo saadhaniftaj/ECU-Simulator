@@ -93,10 +93,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Authors
 
-- Mustafa Ahmad Khan (2024509)
-- Abdullah bin Zubair (2024036)
-- Ammad Ali (2024098)
-- Shaheer Akhtar (2024573)
+Saad Hanif Taj
 
 ## Acknowledgments
 
