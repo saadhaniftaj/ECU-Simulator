@@ -372,6 +372,5 @@ void MainWindow::updateLogsPanel() {
 
 QString MainWindow::getProjectInfo() const {
     return "<b>Advanced ECU Simulation System with Dynamic Engine Management</b><br>"
-           "<b>Team Members:</b> Mustafa Ahmad Khan (2024509), Abdullah bin Zubair (2024036), Ammad Ali (2024098), Shaheer Akhtar (2024573)<br>"
            "<b>Description:</b> Simulates a full-featured automotive ECU using C++ OOP, including sensors, actuators, engine logic, safety features, and real-time logging.";
 } 
